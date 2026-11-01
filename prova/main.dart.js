@@ -28910,7 +28910,7 @@ s=a>=4?B.OL:B.OM
 r=s.a
 q=s.b
 p=A.b([],t.t)
-for(o=r;o<=q;o+=30)p.push(o)
+for(o=r;o<=q;o+=60)p.push(o)
 return p},
 aM5(a){return B.c.df(B.e.k(B.e.dE(a,60)),2,"0")+":"+B.c.df(B.e.k(B.e.bA(a,60)),2,"0")},
 aM4(a){return""+B.e.dE(a,60)+":"+B.c.df(B.e.k(B.e.bA(a,60)),2,"0")},
